@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.3735385in"
+   height="0.90688843in"
+   viewBox="0 0 123.61847 81.619961"
+   id="svg17619"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="common.svg">
+  <title
+     id="title8280">Circuit Common Component</title>
+  <defs
+     id="defs17621">
+    <symbol
+       id="VariableResisitor">
+      <g
+         transform="matrix(1.1206395,0,0,1.1206395,-16.388819,809.85648)"
+         id="VariableResisitor_transform">
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 84.507867,192.98839 5.31496,0"
+           id="path3944"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 111.08267,192.98839 5.31496,0"
+           id="path3947"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 105.76771,200.075 -10.629923,-14.17323 -7.08661,0 0,7.08662"
+           id="path3951"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.39974809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           id="path3953"
+           d="m 267.66832,92.007843 a 1.7716535,1.7716535 0 0 1 -1.77165,1.771654 1.7716535,1.7716535 0 0 1 -1.77166,-1.771654 1.7716535,1.7716535 0 0 1 1.77166,-1.771654 1.7716535,1.7716535 0 0 1 1.77165,1.771654 z"
+           transform="matrix(0,0.669331,0.669331,0,26.4675,15.0155)"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.60622573;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           d="m 107.21832,199.99409 -2.15846,1.58447 3.29036,2.15024 -1.1319,-3.73471 z"
+           id="path3955"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 111.08267,192.98839 -1.77165,-3.5433 -3.54331,7.08661 -3.54331,-7.08661 -3.543313,7.08661 -3.5433,-7.08661 -3.54331,7.08661 -1.77165,-3.54331"
+           id="path3972"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+    <symbol
+       id="g5890">
+      <g
+         id="g5890_transform"
+         transform="matrix(0.37813151,0,0,0.37813153,-333.98211,944.2333)"
+         inkscape:label="#ZenerDiod">
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.76024818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 887.16647,126.80806 64.26334,0 0,4.76025 -64.26335,0 z"
+           id="rect5887"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2622"
+           d="m 930.0087,129.18818 -28.34644,14.17322 0,-28.34644 28.34644,14.17322 z"
+           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:4.76024866;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="ZenerDiod"
+           d="m 940.01103,109.75896 -7.72094,3.22256 0,33.37154 -6.70495,3.89846"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:4.76024866;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </symbol>
+    <symbol
+       id="Diod">
+      <g
+         id="Diod_transform"
+         transform="matrix(0.37813151,0,0,0.37813153,-367.14237,957.02163)">
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.76024818;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 887.16647,126.80806 64.26334,0 0,4.76025 -64.26335,0 z"
+           id="rect5887-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2622-3"
+           d="m 930.0087,129.18818 -28.34644,14.17322 0,-28.34644 28.34644,14.17322 z"
+           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:4.76024866;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2624-1"
+           d="m 932.08483,111.18397 0.20526,34.96383"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:4.76024866;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </symbol>
+    <symbol
+       id="Resistor">
+      <g
+         id="Resistor_transform"
+         transform="matrix(1.1206395,0,0,1.1206395,-146.77132,839.51544)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3938"
+           d="m 84.507868,172.95478 5.31496,0"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3940"
+           d="m 111.08267,172.95478 5.31496,1e-5"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3970"
+           d="m 111.08267,172.95478 -1.77165,-3.5433 -3.54331,7.08661 -3.54331,-7.08661 -3.543312,7.08661 -3.5433,-7.08661 -3.54331,7.08661 -1.77165,-3.54331"
+           style="fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </symbol>
+    <symbol
+       id="Terminal">
+      <g
+         id="Terminal_transform"
+         transform="matrix(1.1206395,0,0,1.1206395,-124.61953,900.28837)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.60622573;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 63.291335,134.00331 -8e-5,-7.06822"
+           id="path3218"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 56.59226,132.56765 12.849807,0 0,3.13503 -12.849807,0 z"
+           id="rect4232"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+    <symbol
+       id="GND">
+      <g
+         transform="matrix(0.56031973,0,0,0.56031975,-92.898572,945.81514)"
+         id="GND_transform">
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 212.1968,201.43114 -42.51967,0"
+           id="path3980"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 190.93697,187.2579 0,14.17324"
+           id="path3984"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.11019,208.51774 -28.34646,0"
+           id="path3994"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 198.02357,215.60436 -14.17322,0"
+           id="path3996"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+    <symbol
+       id="Potentiometer">
+      <g
+         transform="matrix(0.56031973,0,0,0.56031975,12.161987,904.15655)"
+         id="Potentiometer_transform">
+        <path
+           id="path5067"
+           d="m -156.39366,307.64372 10.62992,0"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5069"
+           d="m -103.24406,307.64372 10.62992,2e-5"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5071"
+           d="m -103.24406,307.64372 -3.5433,-7.0866 -7.08662,14.17322 -7.08662,-14.17322 -7.08662,14.17322 -7.0866,-14.17322 -7.08662,14.17322 -3.5433,-7.08662"
+           style="fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5088"
+           d="m -124.50395,316.50199 -3.5433,5.31496 7.08661,0 -3.54331,-5.31496 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.21245146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5090"
+           d="m -124.50395,320.0453 0,19.48819"
+           style="fill:none;stroke:#000000;stroke-width:3.21245146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.877878"
+     inkscape:cx="-21.89285"
+     inkscape:cy="68.927789"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4183"
+       units="in"
+       spacingx="1.8"
+       spacingy="1.8"
+       empspacing="4"
+       originx="26.550001"
+       originy="15.160377" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17624">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Circuit Common Component</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Zaher Dirkey</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(26.549999,-985.90256)">
+    <use
+       xlink:href="#VariableResisitor"
+       id="use8498"
+       transform="translate(-60.182498,-8.1232065)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#g5890"
+       id="use8516"
+       transform="translate(5.7165171,1.3431563)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Diod"
+       id="use8539"
+       transform="translate(5.1267778,-10.596387)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Resistor"
+       id="use8567"
+       transform="translate(27.000001,-14.146524)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Terminal"
+       id="use8599"
+       transform="translate(39.600007,7.1999877)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#GND"
+       id="use8637"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Potentiometer"
+       id="use8682"
+       transform="translate(136.80001,-63.000008)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
